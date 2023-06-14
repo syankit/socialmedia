@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384837621377",
+    "project_id": "fir-c72b7",
+    "storage_bucket": "fir-c72b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384837621377:android:2a49794f2445ca32a3df80",
+        "android_client_info": {
+          "package_name": "com.example.health_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384837621377-etltthkhvvhbfq53fpcbl9drrmho51am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0X0DjULHw4jcecFt1Nyrt2Pg56-Wcjjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384837621377-etltthkhvvhbfq53fpcbl9drrmho51am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
