@@ -1,4 +1,5 @@
-# health_app
+# social_media_clone app
+
 
 A new Flutter project.
 
